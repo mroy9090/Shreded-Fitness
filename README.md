@@ -86,10 +86,3 @@ php artisan migrate --seed
 
 # Run the application
 php artisan serve
-
-
-
-
----
-
-Do you want me to add instructions or code snippets for configuring SSLCommerz in Laravel too?
